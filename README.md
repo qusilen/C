@@ -1,3 +1,1 @@
-# C
-
-C çalışma kodlarım burda bulunacak (:
+C notlarıma Wiki bölümünden ulaşabilirsiniz.
